@@ -1,0 +1,15 @@
+/home/roundspecs/Documents/c#/Second/obj/Debug/net6.0/Second.csproj.AssemblyReference.cache
+/home/roundspecs/Documents/c#/Second/obj/Debug/net6.0/Second.GeneratedMSBuildEditorConfig.editorconfig
+/home/roundspecs/Documents/c#/Second/obj/Debug/net6.0/Second.AssemblyInfoInputs.cache
+/home/roundspecs/Documents/c#/Second/obj/Debug/net6.0/Second.AssemblyInfo.cs
+/home/roundspecs/Documents/c#/Second/obj/Debug/net6.0/Second.csproj.CoreCompileInputs.cache
+/home/roundspecs/Documents/c#/Second/bin/Debug/net6.0/Second
+/home/roundspecs/Documents/c#/Second/bin/Debug/net6.0/Second.deps.json
+/home/roundspecs/Documents/c#/Second/bin/Debug/net6.0/Second.runtimeconfig.json
+/home/roundspecs/Documents/c#/Second/bin/Debug/net6.0/Second.dll
+/home/roundspecs/Documents/c#/Second/bin/Debug/net6.0/ref/Second.dll
+/home/roundspecs/Documents/c#/Second/bin/Debug/net6.0/Second.pdb
+/home/roundspecs/Documents/c#/Second/obj/Debug/net6.0/Second.dll
+/home/roundspecs/Documents/c#/Second/obj/Debug/net6.0/ref/Second.dll
+/home/roundspecs/Documents/c#/Second/obj/Debug/net6.0/Second.pdb
+/home/roundspecs/Documents/c#/Second/obj/Debug/net6.0/Second.genruntimeconfig.cache

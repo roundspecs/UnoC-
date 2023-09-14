@@ -1,0 +1,15 @@
+/home/roundspecs/Documents/c#/First/bin/Debug/net6.0/First
+/home/roundspecs/Documents/c#/First/bin/Debug/net6.0/First.deps.json
+/home/roundspecs/Documents/c#/First/bin/Debug/net6.0/First.runtimeconfig.json
+/home/roundspecs/Documents/c#/First/bin/Debug/net6.0/First.dll
+/home/roundspecs/Documents/c#/First/bin/Debug/net6.0/ref/First.dll
+/home/roundspecs/Documents/c#/First/bin/Debug/net6.0/First.pdb
+/home/roundspecs/Documents/c#/First/obj/Debug/net6.0/First.csproj.AssemblyReference.cache
+/home/roundspecs/Documents/c#/First/obj/Debug/net6.0/First.GeneratedMSBuildEditorConfig.editorconfig
+/home/roundspecs/Documents/c#/First/obj/Debug/net6.0/First.AssemblyInfoInputs.cache
+/home/roundspecs/Documents/c#/First/obj/Debug/net6.0/First.AssemblyInfo.cs
+/home/roundspecs/Documents/c#/First/obj/Debug/net6.0/First.csproj.CoreCompileInputs.cache
+/home/roundspecs/Documents/c#/First/obj/Debug/net6.0/First.dll
+/home/roundspecs/Documents/c#/First/obj/Debug/net6.0/ref/First.dll
+/home/roundspecs/Documents/c#/First/obj/Debug/net6.0/First.pdb
+/home/roundspecs/Documents/c#/First/obj/Debug/net6.0/First.genruntimeconfig.cache
